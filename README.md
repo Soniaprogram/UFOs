@@ -1,18 +1,15 @@
 # UFOs
 
-Deliverable 1: Filter UFO sightings on multiple criteria
-
-Deliverable 2: A written report on the UFO analysis (README.md)
-
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
 ## Overview of Project:
-Explain the purpose of this analysis.
 
-The purpose of this analysis is to build a table using data stored in a Javascript array. I also created filters through user input and then place the table into an HTML file for easy viewing. 
-Using javascript to display the UFO siting data as a table and manipulating the data to filter through this data. 
+The purpose of this analysis is to use javascript and HTML to display UFO sighting data as a table and allow users to filter through this data for multiple criteria. I built a table using data stored in a Javascript array. I also created filters through user input and then placed the table into an HTML file for easy viewing. The table filters for the city, state, country, and shape. 
 
-The purpose is well defined
+#### Deliverable 1: Filter UFO sightings on multiple criteria
+
+The webpage appears as this:
+
+![img1](https://github.com/Soniaprogram/UFOs/blob/main/static/images/webpage.PNG)
 
 ## Results:
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
