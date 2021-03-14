@@ -19,6 +19,8 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 There is a description of how to perform a search, with images.
 
+# ![img]()
+
 ## Summary:
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
