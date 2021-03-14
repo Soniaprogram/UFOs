@@ -16,12 +16,15 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 There is a description of how to perform a search, with images.
 
-To perform a search, you would go to the Filter Search section on the left and type in a date, city, state, country, and/or shape. The data will filter 
+To perform a search, you would go to the Filter Search section on the left and type in a date, city, state, country, and/or shape. The data will filter according to the inputted values. You could enter an input for all 5 or any of them in no particular order. 
 
-# ![img]()
+For example: You could filter the data for date:  and the following results would appear
+# ![img2](https://github.com/Soniaprogram/UFOs/blob/main/static/images/filter.PNG)
 
 ## Summary:
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One drawback of this webpage is that you 
+I would recommend allowing 
 
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development 
