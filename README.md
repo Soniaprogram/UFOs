@@ -3,7 +3,7 @@
 
 ## Overview of Project:
 
-The purpose of this analysis is to use javascript and HTML to display UFO sighting data as a table and allow users to filter through this data for multiple criteria. I built a table using data stored in a Javascript array. I also created filters through user input and then placed the table into an HTML file for easy viewing. The table filters for the city, state, country, and shape. 
+The purpose of this analysis is to use javascript and HTML to display UFO sighting data as a table and allow users to filter through this data for multiple criteria. I built a table using data stored in a Javascript array. I also created filters through user input and then placed the table into an HTML file for easy viewing. The table filters for the date, city, state, country, and shape. 
 
 #### Deliverable 1: Filter UFO sightings on multiple criteria
 
@@ -15,6 +15,8 @@ The webpage appears as this:
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
 There is a description of how to perform a search, with images.
+
+To perform a search, you would go to the Filter Search section on the left and type in a date, city, state, country, and/or shape. The data will filter 
 
 # ![img]()
 
