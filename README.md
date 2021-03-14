@@ -18,11 +18,13 @@ There is a description of how to perform a search, with images.
 
 To perform a search, you would go to the Filter Search section on the left and type in a date, city, state, country, and/or shape. The data will filter according to the inputted values. You could enter an input for all 5 or any of them in no particular order. 
 
-For example: You could input the following into Filter Search:  Enter Date: 1/1/2010
-                                                                Enter City: el cajon
-                                                                Enter State: ca
-                                                                Enter Country: us
-                                                                Enter Shape: triangle
+For example: You could input the following into Filter Search:  
+- Enter Date: 1/1/2010
+- Enter City: el cajon
+- Enter State: ca
+- Enter Country: us
+- Enter Shape: triangle
+
 This would output 2 results as seen below:
 # ![img2](https://github.com/Soniaprogram/UFOs/blob/main/static/images/filter.PNG)
 
