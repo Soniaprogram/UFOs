@@ -12,9 +12,6 @@ The webpage appears as this:
 ![img1](https://github.com/Soniaprogram/UFOs/blob/main/static/images/webpage.PNG)
 
 ## Results:
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
-There is a description of how to perform a search, with images.
 
 To perform a search, you would go to the Filter Search section on the left and type in a date, city, state, country, and/or shape. The data will filter according to the inputted values. You could enter an input for all 5 or any of them in no particular order. 
 
